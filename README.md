@@ -1,6 +1,6 @@
 # test-reselect
 
-Illustrating the use of (Reselect)[https://github.com/reactjs/reselect].
+Illustrating the use of [Reselect](https://github.com/reactjs/reselect).
 
 # Instructions
 
